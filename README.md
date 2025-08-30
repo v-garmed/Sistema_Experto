@@ -49,4 +49,31 @@ A continuación se describen los módulos de un **Sistema Experto** indicando su
 
 - **¿Cómo?**  
   Utilizando técnicas de inferencia:  
-  - **Encadenamient**
+  - **Encadenamiento hacia adelante (Forward chaining):** parte de los datos y aplica reglas hasta llegar a una conclusión.  
+  - **Encadenamiento hacia atrás (Backward chaining):** parte de una hipótesis y busca confirmarla a través de los datos.  
+
+---
+
+## 5. Módulo de Explicaciones
+- **¿Qué?**  
+  Es la parte del sistema que explica al usuario cómo y por qué se llegó a una conclusión o recomendación.  
+
+- **¿Para qué?**  
+  Para generar confianza en el usuario y permitirle entender el razonamiento del sistema.  
+
+- **¿Cómo?**  
+  Mostrando las reglas aplicadas, los hechos considerados y la secuencia lógica de deducción.  
+
+---
+
+## 6. Interfaz de Usuario
+- **¿Qué?**  
+  Es el medio de comunicación entre el sistema experto y el usuario.  
+
+- **¿Para qué?**  
+  Para que el usuario introduzca datos, formule consultas y reciba las respuestas o recomendaciones.  
+
+- **¿Cómo?**  
+  A través de pantallas gráficas, menús interactivos, lenguaje natural o incluso sistemas de voz.  
+
+---
